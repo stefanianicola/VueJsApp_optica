@@ -1,0 +1,24 @@
+/* colors */
+$baseBlue: #14143C;
+$white: #FFFFFF;
+$black: #000000;
+$lightGrey: #E4E4E4;
+$grey: #dddddd;
+$sky: #6D8DB8;
+
+/* z-index */
+$highest: 10;
+$mdeium: 5;
+$lowest: 1;
+
+/* sizes */
+$internalTitle: 32px;
+$sectionTitle: 30px;
+
+// Mobile first Methodology
+// Extra Small Less 576px
+
+$competitive-sm: 576px; // Breakpoint for smartphone
+$competitive-md: 768px; // Breakpoint for tablet 
+$competitive-lg: 992px; // Breakpoint for desktop
+$competitive-elg: 1200px; // Breakpoint for desktop

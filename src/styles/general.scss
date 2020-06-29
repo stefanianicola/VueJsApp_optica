@@ -1,0 +1,13 @@
+body {
+    font-family: 'Barlow', sans-serif;
+    font-size: 1em;
+    color: $black;
+
+    .section-title {
+        font-size: $sectionTitle;
+        text-transform: uppercase;
+        color: $baseBlue;
+        margin: 50px auto;
+        text-align: center;
+    }
+}
